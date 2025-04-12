@@ -46,53 +46,65 @@ This compact form enables consistent learning and decision-making across the mod
 
 ## ⚙️ How to Run
 
-1️⃣ Install dependencies:
-```bash
-pip install -r requirements.txt
-2️⃣ Run the main script:
-python main.py
-3️⃣ Results will display portfolio values for:
-	•	Hill Climbing
-	•	Q-Learning (Training & Simulation)
-	•	Adversarial Search
-	•	Markov Decision Process (MDP)
+1. Install dependencies:
 
-Graphs of portfolio evolution will also pop up (if matplotlib is installed).
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-⸻
+2. Run the main script:
 
-🎯 Project Purpose
+    ```bash
+    python main.py
+    ```
+
+3. Results will display portfolio values for:
+    - Hill Climbing  
+    - Q-Learning (Training & Simulation)  
+    - Adversarial Search  
+    - Markov Decision Process (MDP)  
+
+    Graphs of portfolio evolution will also pop up (if `matplotlib` is installed).
+
+---
+
+## 🎯 Project Purpose
 
 This project connects real-world financial decision-making with:
-	•	AI planning and search.
-	•	Reinforcement learning.
-	•	Adversarial reasoning.
-	•	Probabilistic modeling.
+- AI planning and search.
+- Reinforcement learning.
+- Adversarial reasoning.
+- Probabilistic modeling.
 
-You can see how each AI agent makes decisions under uncertainty and tries to maximize its returns over time.
+You can observe how each AI agent makes decisions under uncertainty and tries to maximize portfolio value over time.
 
-⸻
+---
 
-📌 Future Improvements
-	•	Add advanced stock indicators: RSI, MACD, Bollinger Bands.
-	•	Integrate Deep Q-Learning (DQN) for more dynamic learning.
-	•	Simulate portfolios across multiple assets.
-	•	Use real-time streaming data for live AI trading experiments.
+## 📌 Future Improvements
 
-⸻
+- Add advanced stock indicators: RSI, MACD, Bollinger Bands.
+- Integrate Deep Q-Learning (DQN) for more dynamic learning.
+- Simulate portfolios across multiple assets.
+- Use real-time streaming data for live AI trading experiments.
 
-🧑‍💻 Authors
+---
 
-Emalyn Howard — Shokhina Jalilova — Christopher Meraz
-CS 475/505: Artificial Intelligence I
+## 🧑‍💻 Authors
+
+**Emalyn Howard — Shokhina Jalilova — Christopher Meraz**  
+CS 475/505: Artificial Intelligence I  
 Spring 2025 — Professor Christabel Wayllace
 
-⸻
+---
 
-🚀 Educational Focus
+## 🚀 Educational Focus
 
 This project demonstrates real-world applications of AI concepts:
-	•	Search Algorithms (Hill Climbing).
-	•	Reinforcement Learning (Q-Learning).
-	•	Adversarial Game AI (Minimax).
-	•	Markov Decision Processes (MDP).
+- Search Algorithms (Hill Climbing).
+- Reinforcement Learning (Q-Learning).
+- Adversarial Game AI (Minimax).
+- Markov Decision Processes (MDP).
+
+---
+
+![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting%20our%20project-💡-green)
